@@ -13,7 +13,7 @@ import React, { Component } from 'react'
     }
   render() {
     return (
-      <div classname="container">
+      <div classname="container1">
         <h2>React Forms</h2>
         <h3>Uncontrolledforms</h3>
         <form onSubmit={(e)=>this.handleSubmit(e)}><div className="mb-3">
